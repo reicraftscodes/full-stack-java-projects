@@ -10,10 +10,11 @@ A repository for java full stack projects:
 ##  Core Skills Demonstrated
 **Backend**
 - Java, Spring Boot 2 & 3 (Spring JPA, Spring JDBC, Spring Security, Spring Actuator)
-- Mysql for database
+- Logging: SLF4J (Simple Logging Facade for Java), Log4J
+- Relational Database Management System and Optimisation (Indexing) using MySQL
 - API documentation
 - Junit Test, Test driven development, BDD
-- Gradle & Maven
+- Dependency Management Tool: Gradle & Maven
 - Sonarquabe / Sonarlint
 
 **Frontend**
@@ -26,7 +27,4 @@ A repository for java full stack projects:
 **DevOps Practices**
 - Git, GitHub, Gitlab
 - Jenkins, Red Hat OpenShift
-- Configuration Management
-   - JSON
-   - JSONPath
-- Heroku
+- Heroku, Docker, AWS
