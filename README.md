@@ -4,7 +4,7 @@ A repository for java full stack projects:
 - [UK online voting API](https://github.com/reicraftscodes/voting-system-spring-boot)
 - [UAS Lifecycle Management API](https://github.com/reicraftscodes/uas-lifecycle-management)
 - [UAS Lifecycle Management FE](https://github.com/reicraftscodes/uas-lifecycle-management-frontend)
-- [Skill Sharing App (Spring MVC)](https://github.com/reicraftscodes/springboot-charity-app)
+- [Skill Sharing App (Spring MVC)](https://github.com/reicraftscodes/ons_group2)
 - [Charity App (Spring MVC)](https://github.com/reicraftscodes/springboot-charity-app)
 
 ##  Core Skills Demonstrated
